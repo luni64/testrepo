@@ -13,7 +13,7 @@
   margin: 0;
   }
  </style>
- <div class="container">
+ <div class="container" style="justify-content: space-between">
   <details>
   <summary >Examples</summary>
 
