@@ -7,11 +7,11 @@
 <foreignObject width="100%" height = 200%>
 <div xmlns="http://www.w3.org/1999/xhtml">
  <style>
- .container {
-   display: flex;
-   justify-content: space-between;
-   margin: 0;
- }
+  .container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  }
  </style>
  <div class="container">
   <details>
